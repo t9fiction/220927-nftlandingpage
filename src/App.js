@@ -1,8 +1,20 @@
 import React from 'react'
+import {About, Collection, Create, Discover, Home, Top} from './container'
+import { Navbar, Footer} from './component'
+import './App.css'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Navbar />
+      <Home />
+      <Discover />
+      <About />
+      <Collection />
+      <Create />
+      <Top />
+      <Footer />
+    </div>
   )
 }
 
