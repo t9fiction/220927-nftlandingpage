@@ -46,7 +46,7 @@ const Footer = () => {
         </div>
       </div>
       </div>
-      <span className='p__font1'>Copyright © 2022 Ar Studio Tech</span>
+      <span className='p__font1'>Copyright © 2022 NumericSins </span>
     </div>
   )
 }
