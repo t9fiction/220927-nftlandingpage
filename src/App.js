@@ -11,8 +11,8 @@ const App = () => {
       <About />
       <Top />
       <Collection />
-      <Discover />
       <Create />
+      <Discover />
       <Footer />
     </div>
   )
